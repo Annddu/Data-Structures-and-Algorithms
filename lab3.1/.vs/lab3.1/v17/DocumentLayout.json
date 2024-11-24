@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sem 2\\sda\\lab3.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|D:\\sem 2\\sda\\lab3.1\\lab3.1\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|solutionrelative:lab3.1\\App.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|D:\\sem 2\\sda\\lab3.1\\lab3.1\\SortedIndexeList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|solutionrelative:lab3.1\\SortedIndexeList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|D:\\sem 2\\sda\\lab3.1\\lab3.1\\SortedIndexedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|solutionrelative:lab3.1\\SortedIndexedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|D:\\sem 2\\sda\\lab3.1\\lab3.1\\ListIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|solutionrelative:lab3.1\\ListIterator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|D:\\sem 2\\sda\\lab3.1\\lab3.1\\ListIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3CAAAD6F-A0C8-4D51-A1F0-29AA1EBA2F4A}|lab3.1\\lab3.1.vcxproj|solutionrelative:lab3.1\\ListIterator.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 785,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListIterator.h",
+              "DocumentMoniker": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\ListIterator.h",
+              "RelativeDocumentMoniker": "lab3.1\\ListIterator.h",
+              "ToolTip": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\ListIterator.h",
+              "RelativeToolTip": "lab3.1\\ListIterator.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-29T15:04:50.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListIterator.cpp",
+              "DocumentMoniker": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\ListIterator.cpp",
+              "RelativeDocumentMoniker": "lab3.1\\ListIterator.cpp",
+              "ToolTip": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\ListIterator.cpp",
+              "RelativeToolTip": "lab3.1\\ListIterator.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T15:04:49.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SortedIndexeList.cpp",
+              "DocumentMoniker": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\SortedIndexeList.cpp",
+              "RelativeDocumentMoniker": "lab3.1\\SortedIndexeList.cpp",
+              "ToolTip": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\SortedIndexeList.cpp",
+              "RelativeToolTip": "lab3.1\\SortedIndexeList.cpp",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAK8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T13:09:25.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SortedIndexedList.h",
+              "DocumentMoniker": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\SortedIndexedList.h",
+              "RelativeDocumentMoniker": "lab3.1\\SortedIndexedList.h",
+              "ToolTip": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\SortedIndexedList.h",
+              "RelativeToolTip": "lab3.1\\SortedIndexedList.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-25T13:09:08.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cpp",
+              "DocumentMoniker": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\App.cpp",
+              "RelativeDocumentMoniker": "lab3.1\\App.cpp",
+              "ToolTip": "D:\\sem 2\\sda\\lab3.1\\lab3.1\\App.cpp",
+              "RelativeToolTip": "lab3.1\\App.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-29T15:05:37.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

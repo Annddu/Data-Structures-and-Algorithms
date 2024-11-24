@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppvsdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "console": "externalTerminal",
+      "cwd": "d:/sem 2/sda/lab3/lab3",
+      "program": "d:/sem 2/sda/lab3/lab3/build/Debug/outDebug"
+    }
+  ]
+}

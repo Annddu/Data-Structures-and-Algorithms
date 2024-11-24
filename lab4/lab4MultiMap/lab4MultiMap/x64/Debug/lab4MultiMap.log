@@ -1,0 +1,3 @@
+﻿  MultiMap.cpp
+D:\sem 2\sda\lab4\lab4MultiMap\MultiMap.cpp(14,21): warning C4305: '=': truncation from 'double' to 'float'
+  lab4MultiMap.vcxproj -> D:\sem 2\sda\lab4\lab4MultiMap\x64\Debug\lab4MultiMap.exe
